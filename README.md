@@ -1,6 +1,6 @@
 # 💫 About Me:
 Passionate Python and Web3 developer with diverse experience in the IT industry, specializing in web development using React, Node.js, and Django. Currently focused on the exciting realm of Web3 development, DeFi app development, and other innovative projects. Eager to collaborate with a dynamic and passionate team, continuously learning and growing in the ever-evolving tech industry.
-<img align = "right" alt = "me coding" width = "400px" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1dwEMiX8rW9FoOSpFhwea-&ust=1685179608898000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCJ67HVkv8CFQAAAAAdAAAAABAE">
+<img align = "right" alt = "me coding" width = "400px" src = "![image](https://github.com/Shailu-s/Shailu-s/assets/59786651/2651735a-62e2-4df4-b181-c1e02392bd72)">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shailendrasinghw3/) 
