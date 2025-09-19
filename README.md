@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Shailendra Singh </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I am a blockchain enthusiast with over 5 years of experience. My expertise encompasses decentralized exchanges, perpetual futures, relayers, order books, and core blockchain technologies. I have successfully deployed multiple smart contracts on both layer one and layer two blockchains. Additionally, I have worked extensively with golang in various fields like Cosmos SDK, P2P implementations, developed event watchers and workers to interact with smart contracts.
+I am a blockchain enthusiast with over 5 years of experience. My expertise encompasses decentralized exchanges, cross chain protocols, perpetual futures, relayers, order books, and core blockchain technologies. I have successfully deployed multiple smart contracts on both layer one and layer two blockchains. Additionally, I have worked extensively with golang in various fields like Cosmos SDK, P2P implementations, developed event watchers and workers to interact with smart contracts.
 
 In my career, I have created highly scalable backend architectures and managed databases effectively. I have built projects using a modular microservice architecture in Golang, optimizing database interactions and models. My strong foundation in blockchain empowers me to provide solutions for scalable design implementation and the critical thinking necessary for robust product architecture.
 
