@@ -1,11 +1,17 @@
 <h1 align="center"><b>Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- I'm Shailendra Singh, backend and blockchain engineer with 6 years of experience. 
-- I work with golang, nodejs,typescripts and python on any kind of product which interests me. I have worked on sclablible backends and databases, off-chain services, product architectures,L2 rollups, cross chain protocols, indexers, relayers, P2P communications, blockchain protocols, consensus and messages layers, etc. 
-- I also like to write smart contracts with solidity and have worked on multiple DeFI products like Perpetual Dexs, Trading engines, Uniswap forks, Core protocol contracts, MEVs, Lending and borrowring protocols etc. 
-- These days I am hooked with latest AI tools and see myself becoming a vibe engineer. I usually work to test and explore latest AI coding tools, new ERCs like 8004 on ethereum, research materials and articles.
+Shailendra Singh | Builder & Engineer 🏗️
 
-I am actively looking for a job these days, Please contact if you know any available role in your network.
+6+ years of shipping code across the stack. I specialize in the "hard stuff": L2 scaling, cross-chain messaging, and protocol-level engineering.
+
+Blockchain: I build Off-chain services like indexers, solvers, matching engines and also I am Solidity dev(DeFi specialist).
+
+Backend: Scalable Go/Node.js systems & P2P networking.
+
+Future-proofing: Currently obsessed with AI-driven development and implementing new standards like ERC-8004.
+
+💡 Open Source contributor & constant tinkerer.
+📧 Looking for new roles! Reach out if you need a lead-level engineer who moves fast.
 
 # 💻 <b>Tech Stacks</b>
 
