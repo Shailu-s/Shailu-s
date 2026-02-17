@@ -1,11 +1,11 @@
-<h1 align="center"><b>Hi , I'm Shailendra Singh </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I am a blockchain enthusiast with over 5 years of experience. My expertise encompasses decentralized exchanges, cross chain protocols, perpetual futures, relayers, order books, and core blockchain technologies. I have successfully deployed multiple smart contracts on both layer one and layer two blockchains. Additionally, I have worked extensively with golang in various fields like Cosmos SDK, P2P implementations, developed event watchers and workers to interact with smart contracts.
+- I'm Shailendra Singh, backend and blockchain engineer with 6 years of experience. 
+- I work with golang, nodejs,typescripts and python on any kind of product which interests me. I have worked on sclablible backends and databases, off-chain services, product architectures,L2 rollups, cross chain protocols, indexers, relayers, P2P communications, blockchain protocols, consensus and messages layers, etc. 
+- I also like to write smart contracts with solidity and have worked on multiple DeFI products like Perpetual Dexs, Trading engines, Uniswap forks, Core protocol contracts, MEVs, Lending and borrowring protocols etc. 
+- These days I am hooked with latest AI tools and see myself becoming a vibe engineer. I usually work to test and explore latest AI coding tools, new ERCs like 8004 on ethereum, research materials and articles.
 
-In my career, I have created highly scalable backend architectures and managed databases effectively. I have built projects using a modular microservice architecture in Golang, optimizing database interactions and models. My strong foundation in blockchain empowers me to provide solutions for scalable design implementation and the critical thinking necessary for robust product architecture.
-
-I thrive on taking ownership of projects and collaborating with teams to maximize contributions. Passionate about open source, I actively engage with the community. Committed to staying at the forefront of the field, I am dedicated to continuous learning and growth.
- 
+I am actively looking for a job these days, Please contact if you know any available role in your network.
 
 # 💻 <b>Tech Stacks</b>
 
@@ -25,7 +25,7 @@ Gin, LibP2P, Go-ethereum, Gorm, Cobra, Viper, Prometheus
 [![](https://visitcount.itsvg.in/api?id=Shailu-s&icon=0&color=0)](https://visitcount.itsvg.in)
 
 [LinkedIn](https://www.linkedin.com/in/shailendrasinghw3/)
-[Twitter/X](https://x.com/last___uchiha)
+[Twitter/X](https://x.com/0xshailu)
 [Email](mailto:srajawat024@gmail.com)
 
 
