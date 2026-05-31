@@ -2,11 +2,11 @@
 
 Shailendra Singh | Builder & Engineer 🏗️
 
-6+ years of shipping code across the stack. I specialize in the "hard stuff": L2 scaling, cross-chain messaging, and protocol-level engineering.
+6+ years of shipping code across the stack. I specialize in backend and blockchain developement. 
 
-Blockchain: I build Off-chain services like indexers, solvers, matching engines and also I am Solidity dev(DeFi specialist).
+Blockchain: I build Off-chain services like indexers, solvers, matching engines,cross-chain messaging, and protocol-level products and also I am senior Solidity developer with experience of multiple defi products.
 
-Backend: Scalable Go/Node.js systems & P2P networking.
+Backend: Scalable and low talency systems, Sql and NoSql databases, Authetications, caching mechanism. P2P networking and more.
 
 Future-proofing: Currently obsessed with AI-driven development and implementing new standards like ERC-8004.
 
