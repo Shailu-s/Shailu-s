@@ -4,9 +4,9 @@ Senior Backend Engineer. Go first, with six years of backend and blockchain infr
 
 I build backend systems that stay correct under load, retries and partial failure.
 
-**Backend.** Most of my work is the code that moves money and has to be exactly right. I've designed
+**Backend.** Most of my work is the code that moves money and has to be exactly right. At Qiro, I've designed
 an append-only credit ledger with exact-money arithmetic and invariants enforced in PostgreSQL, so two
-workers racing on the same event can't both commit.In another project, I've built event ingestion from two independent
+workers racing on the same event can't both commit. In another project, I've built event ingestion from two independent
 sources with idempotent writes and automatic gap detection, a deadline-bounded auction in Go that fans
 out to many upstreams and returns the best answer before a hard 12-second cutoff, and a real-time
 matching engine on an in-memory order book with disk kept off the hot path and crash recovery by replay.
