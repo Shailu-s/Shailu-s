@@ -44,7 +44,10 @@ and cross-chain protocols. I've also contributed to go-ethereum.
 ![Kubernetes](httKubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://iF1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Terraform](httperraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://imF3E?style=for-the-badge)                                                         ![GitHub Actions]dge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)![Prometheus](httPrometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)           ![Grafana](https:fana-F46800?style=for-the-badge&logo=grafana&logoColor=white)                    
+![AWS](https://imF3E?style=for-the-badge)                                                         
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prometheus](httPrometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)           
+![Grafana](https:fana-F46800?style=for-the-badge&logo=grafana&logoColor=white)                    
 **Blockchain**                                                
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&loe)
 ![go-ethereum](https://img.shields.io/badge/go--ethereum-00ADD8?style=for-the-bte)
