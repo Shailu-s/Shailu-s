@@ -22,6 +22,17 @@ incidents, not just to draw dashboards.
 off-chain matching with on-chain settlement, P2P networking on libp2p, and Solidity contracts for perps
 and cross-chain protocols. I've also contributed to go-ethereum.
 
+## Selected work
+
+| Project | What it proves |
+|---|---|
+| [**payments-platform**](https://github.com/Shailu-s/payments-platform) | Money movement through unreliable providers on a double-entry, immutable ledger. Go, PostgreSQL, Kafka. In progress. |
+| [**shortn**](https://github.com/Shailu-s/shortn) | URL shortener load-tested until it broke. 37,893 redirects/s, p95 2.32 ms, measured on one laptop, and the bugs that only showed up under load. |
+| [**p2p-relayer**](https://github.com/Shailu-s/p2p-relayer) | Leader-follower P2P matching engine with an off-chain order book. 500+ orders/s sustained in production. |
+| [**p2p-messenger**](https://github.com/Shailu-s/p2p-messenger) | Decentralized messenger on libp2p gossipsub. Store-and-forward for offline peers, and Double Ratchet encryption so one stolen key opens exactly one message. |
+| [**Spool-EVM-indexer**](https://github.com/Shailu-s/Spool-EVM-indexer) | Config-driven event indexer for any EVM chain into PostgreSQL. Reorg-safe through confirmation depth and block-hash rollback. |
+| [**trh-sdk**](https://github.com/tokamak-network/trh-sdk) | Go SDK and CLI that provisions and deploys a full rollup stack to Kubernetes from one command. I led the team of four that built it. |
+
 ## Tech Stack
 **Languages**
 
