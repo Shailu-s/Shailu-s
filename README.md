@@ -2,16 +2,13 @@
 
 Senior Backend Engineer. Go first, with six years of backend and blockchain infrastructure.
 
-I build backend systems that stay correct under load, retries and partial failure.
+I have built production level scalable backends, Financial systems, worked on event based architectures, used 
+micro-service architecture with GPRC communication in required protocols, worked a lot on monolithic systems too.  
 
-**Backend.** Most of my work is the code that moves money and has to be exactly right. At Qiro, I designed
-an append-only credit ledger with exact-money arithmetic and invariants enforced in PostgreSQL, so two
-workers racing on the same event can't both commit, and event ingestion from two independent sources
-with idempotent writes and automatic gap detection. Before that, I built a deadline-bounded auction in Go
-that fans out to many upstreams and returns the best answer before a hard 12-second cutoff, and a
-real-time matching engine on an in-memory order book with disk kept off the hot path and crash recovery
-by replay.
-I care about the parts that break in production: retries, races, partial failure, and backpressure.
+**Backend.** Most of my work is the code that moves money and has to be exactly right. Some Deployed Products examples:
+- Private Credit Lending Platform with revolving limit and interest mechanism
+- Trading Application with Matching Engine and in memory Orderbooks. Benchmarked > 40,000 Order per sec. 
+- A deadline-bounded 2 sec auction in Go with concurrent thousand of request for block submission on Ethereum. 
 
 **Infrastructure.** At Tokamak I led a team of four building a Go SDK and CLI that provisions cloud
 infrastructure and deploys a full service stack to Kubernetes from one command. It's resumable when a
