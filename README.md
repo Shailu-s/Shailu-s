@@ -17,7 +17,7 @@ incidents, not just to draw dashboards.
 
 **Blockchain.** The same distributed-systems problems, on a chain. I've built reorg-safe EVM indexers,
 off-chain matching with on-chain settlement, P2P networking on libp2p, and Solidity contracts for perps
-and cross-chain protocols. I've also contributed to go-ethereum.
+and cross-chain protocols. I send bug fixes to Ethereum and P2P projects (Prysm, go-libp2p).
 
 ## Selected work
 
