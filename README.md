@@ -26,7 +26,7 @@ and cross-chain protocols. I've also contributed to go-ethereum.
 | [**matching-engine**](https://github.com/Shailu-s/matching-engine) | Exchange hot path benchmarked layer by layer: gateway, sequencer, WAL with group-commit fsync, risk, order book. 500K orders/sec end to end, kill -9 recovery verified by state hash. [Live demo](https://matching-engine-ydj6.onrender.com). |
 | [**payments-platform**](https://github.com/Shailu-s/payments-platform) | Money movement through unreliable providers on a double-entry, immutable ledger. Go, PostgreSQL, Kafka. In progress. |
 | [**shortn**](https://github.com/Shailu-s/shortn) | URL shortener load-tested until it broke. 37,893 redirects/s, p95 2.32 ms, measured on one laptop, and the bugs that only showed up under load. |
-| [**p2p-relayer**](https://github.com/Shailu-s/p2p-relayer) | Leader-follower P2P matching engine with an off-chain order book. 500+ orders/s sustained in production. |
+| [**p2p-relayer**](https://github.com/Shailu-s/p2p-relayer) | Leader-follower P2P matching engine with an off-chain order book; matched orders settled on-chain in batches. |
 | [**p2p-messenger**](https://github.com/Shailu-s/p2p-messenger) | Decentralized messenger on libp2p gossipsub. Store-and-forward for offline peers, and Double Ratchet encryption so one stolen key opens exactly one message. |
 | [**Spool-EVM-indexer**](https://github.com/Shailu-s/Spool-EVM-indexer) | Config-driven event indexer for any EVM chain into PostgreSQL. Reorg-safe through confirmation depth and block-hash rollback. |
 | [**trh-sdk**](https://github.com/tokamak-network/trh-sdk) | Go SDK and CLI that provisions and deploys a full rollup stack to Kubernetes from one command. I led the team of four that built it. |
