@@ -7,7 +7,7 @@ micro-service architecture with GPRC communication in required protocols, worked
 
 **Backend.** Most of my work is the code that moves money and has to be exactly right. Some Deployed Products examples:
 - Private Credit Lending Platform with revolving limit and interest mechanism
-- [Exchange matching engine](https://github.com/Shailu-s/matching-engine): TCP gateway, write-ahead journal with group-commit fsync, pre-trade risk and an in-memory order book. 410-580K orders/sec end to end with every order durable, 2-5M/sec for the matching core alone.
+- [Exchange matching engine](https://github.com/Shailu-s/matching-engine): TCP gateway, write-ahead journal with group-commit fsync, pre-trade risk and an in-memory order book. 500K orders/sec end to end with every order durable, 2-5M/sec for the matching core alone.
 - A deadline-bounded 2 sec auction in Go with concurrent thousand of request for block submission on Ethereum. 
 
 **Infrastructure.** At Tokamak I led a team of four building a Go SDK and CLI that provisions cloud
@@ -23,7 +23,7 @@ and cross-chain protocols. I've also contributed to go-ethereum.
 
 | Project | What it proves |
 |---|---|
-| [**matching-engine**](https://github.com/Shailu-s/matching-engine) | Exchange hot path benchmarked layer by layer: gateway, sequencer, WAL with group-commit fsync, risk, order book. 410-580K orders/sec end to end, kill -9 recovery verified by state hash. [Live demo](https://matching-engine-ydj6.onrender.com). |
+| [**matching-engine**](https://github.com/Shailu-s/matching-engine) | Exchange hot path benchmarked layer by layer: gateway, sequencer, WAL with group-commit fsync, risk, order book. 500K orders/sec end to end, kill -9 recovery verified by state hash. [Live demo](https://matching-engine-ydj6.onrender.com). |
 | [**payments-platform**](https://github.com/Shailu-s/payments-platform) | Money movement through unreliable providers on a double-entry, immutable ledger. Go, PostgreSQL, Kafka. In progress. |
 | [**shortn**](https://github.com/Shailu-s/shortn) | URL shortener load-tested until it broke. 37,893 redirects/s, p95 2.32 ms, measured on one laptop, and the bugs that only showed up under load. |
 | [**p2p-relayer**](https://github.com/Shailu-s/p2p-relayer) | Leader-follower P2P matching engine with an off-chain order book. 500+ orders/s sustained in production. |
