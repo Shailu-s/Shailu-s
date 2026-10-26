@@ -1,12 +1,12 @@
 <h1 align="center"><b>Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Senior Backend Engineer. Go first, with six years of backend and blockchain infrastructure.
+Senior Software Engineer. Go first, with six years of backend and blockchain infrastructure.
 
 I have built production level scalable backends, Financial systems, worked on event based architectures, used 
 micro-service architecture with GPRC communication in required protocols, worked a lot on monolithic systems too.  
 
 **Backend.** Most of my work is the code that moves money and has to be exactly right. Some Deployed Products examples:
-- Private Credit Lending Platform with revolving limit and interest mechanism
+- Private Credit Lending Platform with revolving limit and interest mechanism, a ERC-4626 vault on Mainnet for funds custody.  
 - [Exchange matching engine](https://github.com/Shailu-s/matching-engine): low-latency engine that matches buy and sell orders on one thread, with a WAL for durability and a risk engine checking every order. 500K orders/sec end to end, p99 under 15 ms at 200K/sec, 5-6M/sec for the core.
 - A deadline-bounded 2 sec auction in Go with concurrent thousand of request for block submission on Ethereum. 
 
@@ -15,9 +15,10 @@ infrastructure and deploys a full service stack to Kubernetes from one command. 
 step fails halfway. I also own observability in Prometheus and Grafana and use it to diagnose live
 incidents, not just to draw dashboards.
 
-**Blockchain.** The same distributed-systems problems, on a chain. I've built reorg-safe EVM indexers,
-off-chain matching with on-chain settlement, P2P networking on libp2p, and Solidity contracts for perps
-and cross-chain protocols. I send bug fixes to Ethereum and P2P projects (Prysm, go-libp2p).
+**Blockchain.** The same distributed-systems problems, on a chain. I've built Decentralised exchanges, 
+reorg-safe EVM indexers, off-chain matching with on-chain settlement, P2P networking on libp2p, and 
+Solidity contracts for perps and cross-chain protocols. I send bug fixes to Ethereum and 
+P2P projects (Prysm, go-libp2p).
 
 ## Selected work
 
